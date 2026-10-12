@@ -1,0 +1,9 @@
+order_id,state,price,status
+1001,SP,120.50,delivered
+1002,RJ,80.00,delivered
+1003,SP,45.25,canceled
+1004,MG,200.00,delivered
+1005,SP,60.00,delivered
+1006,RJ,15.75,canceled
+1007,MG,99.99,delivered
+1008,SP,abc,delivered
