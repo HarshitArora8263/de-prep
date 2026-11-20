@@ -1,7 +1,8 @@
 import csv
+import sys
 
-path = "data/olist_order_reviews_dataset.csv"
-key_column = "review_id"
+path = sys.argv[1]
+key_column = sys.argv[2]
 
 row_count = 0
 blank_counts = {}
